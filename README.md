@@ -5,7 +5,7 @@
  From time to time it opens a new terminal full-screen window with cow (or somebody else) reminding you to do something 
 
 # Ruquires (!)
- linux <br /> 
+ ubuntu <br /> 
  cowsay installed 
 
 # Use
